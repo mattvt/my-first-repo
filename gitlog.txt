@@ -1,0 +1,17 @@
+commit df7f7154c32df07d8085b12630e5e8f326b56a45
+Author: mattvt <mflamini@vt.edu>
+Date:   Sun Jan 21 11:55:14 2018 -0500
+
+    added gitignore
+
+commit e5a8424a149c008a8b9f265ac1be347cd1dc8aa1
+Author: mattvt <mflamini@vt.edu>
+Date:   Sun Jan 21 10:45:55 2018 -0500
+
+    Added two .txt files
+
+commit a0b9ff881f22310e3f471ad85d0a3448d2573ebf
+Author: mattvt <mflamini@vt.edu>
+Date:   Sun Jan 21 10:38:43 2018 -0500
+
+    added readme.txt
